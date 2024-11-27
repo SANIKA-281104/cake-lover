@@ -1,0 +1,25 @@
+body{
+    background-image: url(samosa.jpg);
+}
+form{
+    margin-left: 50px;
+    color: goldenrod;
+    margin-top: 8px;
+    margin-left: 10px;
+}
+h1{
+    color: gainsboro;
+    font-style: oblique;
+}
+label{
+    color: red;
+    font-size: 20px;
+    font-style: oblique;
+}
+p{
+    color: bisque;
+    font-style: oblique;
+}
+a{
+    color: red;
+}
